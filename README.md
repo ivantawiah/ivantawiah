@@ -72,11 +72,11 @@ When I'm not coding, you'll probably find me gaming. 🕹️
 - 🎮 PlayStation
 - 🟢 Xbox
 
-<p align="center">
-  <a href="YOUR_PLAYSTATION_PROFILE_URL">
+<p>
+  <a href="https://psnprofiles.com/Siisi_theKing">
     <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
   </a>
-  <a href="YOUR_XBOX_PROFILE_URL">
+  <a href ="https://xbox.com/play/user/Ivan3239">
     <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
   </a>
 </p>
