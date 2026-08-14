@@ -69,11 +69,8 @@ I enjoy experimenting with different technologies and building projects that hel
 
 When I'm not coding, you'll probably find me gaming. 🕹️
 
-- 🎮 PlayStation
-- 🟢 Xbox
-
 <p>
-  <a href="https://psnprofiles.com/Siisi_theKing">
+  <a href="https://profile.playstation.com/Siisi_theKing">
     <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
   </a>
   <a href ="https://xbox.com/play/user/Ivan3239">
