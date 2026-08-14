@@ -25,7 +25,7 @@ I'm particularly interested in software engineering, startups, fintech, and usin
 
 ### Frameworks & Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,django,nodejs,tailwind, swift" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,django,nodejs,tailwind" />
 </p>
 
 ### Databases & Backend
