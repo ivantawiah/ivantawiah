@@ -78,24 +78,6 @@ When I'm not coding, you'll probably find me gaming. 🕹️
   </a>
 </p>
 
-[PlayStation Profile](YOUR_PLAYSTATION_LINK) • [Xbox Profile](YOUR_XBOX_LINK)
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=google-chrome"/>
-  </a>
-  <a href="YOUR_X_URL">
-    <img src="https://img.shields.io/badge/X-Profile-black?style=for-the-badge&logo=x"/>
-  </a>
-</p>
-
 ---
 
 <p align="center">
