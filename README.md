@@ -25,7 +25,7 @@ I'm particularly interested in software engineering, startups, fintech, and usin
 
 ### Frameworks & Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,django,nodejs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,django,nodejs,tailwind,swift" />
 </p>
 
 ### Databases & Backend
@@ -35,7 +35,7 @@ I'm particularly interested in software engineering, startups, fintech, and usin
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,docker,blender,apple,unity,arduino,n8n" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,apple,androidstudio,figma,docker,blender,unity,arduino,slack,discord" />
 </p>
 
 ---
