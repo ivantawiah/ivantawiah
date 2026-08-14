@@ -1,19 +1,107 @@
-# Hi, I'm Ivan Siisi Tawiah 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%F0%9F%95%B9%EF%B8%8F&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
-### Computer Science Student • Software Engineer • Builder
+<p align="center">
+  <img src="TANJIRO_GIF_URL" width="250"/>
+</p>
 
-I'm a Computer Science student and software engineer passionate about building technology that solves real-world problems.
+<h2 align="center">I'm Ivan Siisi Tawiah 👋</h2>
+
+<p align="center">
+  Computer Science Student • Software Engineer • Builder
+</p>
+
+---
+
+## 👨🏾‍💻 About Me
+
+I'm a Computer Science student and software engineer who enjoys building technology, learning new things, and turning ideas into real-world products.
+
+I'm particularly interested in software engineering, startups, fintech, and using technology to solve problems in Africa.
+
+---
+
+## 🛠️ Tools I've Learned & Used
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,dart" />
+</p>
+
+### Frameworks & Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,django,nodejs,tailwind" />
+</p>
+
+### Databases & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,mongodb" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,docker" />
+</p>
+
+---
 
 ## 🚀 What I'm Building
 
-- 🏗️ **Hallway** — A student-focused marketplace and freelance platform
-- 💻 Software engineering projects
-- 🌍 Technology for African markets
+### 🏗️ Hallway
 
-## 🛠️ Technologies
+A student-focused marketplace and freelance platform designed to help students discover opportunities, sell products, offer services, and earn money.
 
-Python • JavaScript • TypeScript • Kotlin • Flutter • Next.js • Firebase • Supabase
+**Website:** [hallway.africa](https://hallway.africa)
 
-## 🔗 Take a break from work with gaming with me
+### 💻 Other Projects
 
-[PsN](playstation.com/profile/Siisi_theKing) · [Portfolio](YOUR_PORTFOLIO_URL) · [X](YOUR_X_URL)
+I enjoy experimenting with different technologies and building projects that help me learn and solve practical problems.
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Software Engineering
+- System Design
+- Cloud & Backend Architecture
+- Artificial Intelligence
+- Mobile Development
+- Startup & Product Development
+
+---
+
+## 🎮 Gaming
+
+When I'm not coding, you'll probably find me gaming. 🕹️
+
+- 🎮 PlayStation
+- 🟢 Xbox
+
+[PlayStation Profile](YOUR_PLAYSTATION_LINK) • [Xbox Profile](YOUR_XBOX_LINK)
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=google-chrome"/>
+  </a>
+  <a href="YOUR_X_URL">
+    <img src="https://img.shields.io/badge/X-Profile-black?style=for-the-badge&logo=x"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  Thanks for stopping by! 🕹️
+</p>
