@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20there!%F0%9F%95%B9%EF%B8%8F&animation=fadeIn&type=waving&color=0:FFB347,100:FF8C00&fontColor=000000&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20there%2C%20call%20me%20Siisi%20%F0%9F%A6%91&animation=fadeIn&type=waving&color=0:FFB347,100:FF8C00&fontColor=000000&height=100"/>
 </p>
 
 <h2 align="center">I'm Ivan Siisi Tawiah 👋</h2>
