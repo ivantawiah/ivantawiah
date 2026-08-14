@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ivan Siisi Tawiah 👋
 
-<!--
-**ivantawiah/ivantawiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student • Software Engineer • Builder
 
-Here are some ideas to get you started:
+I'm a Computer Science student and software engineer passionate about building technology that solves real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Building
+
+- 🏗️ **Hallway** — A student-focused marketplace and freelance platform
+- 💻 Software engineering projects
+- 🌍 Technology for African markets
+
+## 🛠️ Technologies
+
+Python • JavaScript • TypeScript • Kotlin • Flutter • Next.js • Django • Firebase • Supabase
+
+## 🔗 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL) · [X](YOUR_X_URL)
