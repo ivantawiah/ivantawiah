@@ -12,8 +12,8 @@ I'm a Computer Science student and software engineer passionate about building t
 
 ## 🛠️ Technologies
 
-Python • JavaScript • TypeScript • Kotlin • Flutter • Next.js • Django • Firebase • Supabase
+Python • JavaScript • TypeScript • Kotlin • Flutter • Next.js • Firebase • Supabase
 
-## 🔗 Connect With Me
+## 🔗 Take a break from work with gaming with me
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL) · [X](YOUR_X_URL)
+[PsN](playstation.com/profile/Siisi_theKing) · [Portfolio](YOUR_PORTFOLIO_URL) · [X](YOUR_X_URL)
