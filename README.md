@@ -93,7 +93,7 @@ When I'm not coding, you'll probably find me gaming. 🕹️
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ivantawiah&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
 <p align="center">
