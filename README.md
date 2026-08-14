@@ -35,7 +35,7 @@ I'm particularly interested in software engineering, startups, fintech, and usin
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=xcode,git,github,vscode,androidstudio,figma,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,docker,blender,xcode,unity,arduino" />
 </p>
 
 ---
