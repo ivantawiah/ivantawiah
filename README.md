@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Software Engineer • Mobile App Developer (iOS & Android) • Builder • Gamer
+  Software Engineer • Mobile App Developer (iOS & Android) • Gamer
 </p>
 
 ---
