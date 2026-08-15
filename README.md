@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Computer Science Student • Software Engineer • Builder • Gamer
+  Software Engineer • Mobile App Developer (iOS & Android) • Builder • Gamer
 </p>
 
 ---
